@@ -1,7 +1,7 @@
 {
-  "name": "rb-law",
+  "name": "React Gatsby Typescript Boilerplate",
   "private": true,
-  "description": "RB @ Avrek Law",
+  "description": "Description",
   "version": "0.1.0",
   "author": "Tim Chang <timchang.tcc@gmail.com>",
   "dependencies": {
@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/timc1/rb-law"
+    "url": "https://github.com/timc1/gatsby-typescript-boilerplate"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
