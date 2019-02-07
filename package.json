@@ -1,7 +1,7 @@
 {
-  "name": "React Gatsby Typescript Boilerplate",
+  "name": "gatsby-typescript-boilerplate",
   "private": true,
-  "description": "Description",
+  "description": "Gatsby Typescript Boilerplate",
   "version": "0.1.0",
   "author": "Tim Chang <timchang.tcc@gmail.com>",
   "dependencies": {
@@ -44,6 +44,7 @@
     "eslint-plugin-import": "2.x",
     "eslint-plugin-jsx-a11y": "^6.2.0",
     "eslint-plugin-react": "7.x",
+    "eslint-plugin-react-hooks": "^1.0.1",
     "prettier": "^1.15.2"
   },
   "repository": {
