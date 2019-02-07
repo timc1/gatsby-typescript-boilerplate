@@ -7,7 +7,7 @@
 ## Usage
 
 ```
-git clone git@github.com:timc1/gatsby-typescript-bp.git
+git clone git@github.com:timc1/gatsby-typescript-boilerplate.git
 ```
 
 ```
